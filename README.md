@@ -2,10 +2,8 @@
 # NGUYỄN KHÁNH BẢO CHÂU
 
 # Education
- University of Information Technology
- - (Studying) Computer Science · (August 2023)
- Alison
- - Diploma, Operations Management and Supervision · (June 2023)
+ - University of Information Technology //(Studying) Computer Science · (August 2023)
+ - Alison //Diploma, Operations Management and Supervision · (June 2023)
 
 # Experience
 Code MeLy
