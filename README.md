@@ -31,3 +31,12 @@ Fiverr Freelancer
   - Developing Business Acumen (PMI - NASBA)
   - Organisational design: Know your organisation (Macquarie University - Coursera)
   - Leadership Mindsets (PMI - Linkedin)
+    
+# Contact
+- 0339471120 (Mobile)
+- khanhbaochau12@gmail.com
+- www.linkedin.com/in/khnhbaochaungyn12 (LinkedIn)
+- www.facebook.com/khanhbaochau.nguyen.9
+- github.com/khanhbaochau12
+- vn.linkedin.com/in/chaubaokhanh12cys (Old)
+
