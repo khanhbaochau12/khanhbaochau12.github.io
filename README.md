@@ -23,13 +23,13 @@ Fiverr Freelancers
           Vietnam
 
 # Top Skills
-Management
-Transformational Leadership
-Collaboration Solutions
+          Management
+          Transformational Leadership
+          Collaboration Solutions
 
 # Certifications
-Ethics and Governance of Artificial Intelligence for Health (OpenWHO)
-Mental health and psychosocial support: Clinical management of rape and intimate partner violence in humanitarian settings (OpenWHO)
-Developing Business Acumen (PMI - NASBA)
-Organisational design: Know your organisation (Macquarie University - Coursera)
-Leadership Mindsets (PMI - Linkedin)
+          Ethics and Governance of Artificial Intelligence for Health (OpenWHO)
+          Mental health and psychosocial support: Clinical management of rape and intimate partner violence in humanitarian settings (OpenWHO)
+          Developing Business Acumen (PMI - NASBA)
+          Organisational design: Know your organisation (Macquarie University - Coursera)
+          Leadership Mindsets (PMI - Linkedin)
