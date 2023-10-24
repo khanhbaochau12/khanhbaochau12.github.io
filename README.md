@@ -27,7 +27,7 @@ Fiverr Freelancer
 
 # Certifications
   - Ethics and Governance of Artificial Intelligence for Health (OpenWHO)
-  - Mental health and psychosocial support: Clinical management of rape and intimate partner violence in humanitarian settings (OpenWHO)
+  - Mental health and psychosocial support: Clinical management in humanitarian settings (OpenWHO)
   - Developing Business Acumen (PMI - NASBA)
   - Organisational design: Know your organisation (Macquarie University - Coursera)
   - Leadership Mindsets (PMI - Linkedin)
