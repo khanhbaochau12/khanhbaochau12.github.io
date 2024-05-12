@@ -7,12 +7,12 @@
 
 # Experience
 Code MeLy
-  - Collaborator
+  - Leader Team Com 
   - October 2023 - Present 
 
 BnA
-  - Research And Development Intern
-  - September 2023 - Present
+  - Research And Development 
+  - September 2023 - May 2024 
   -  Ho Chi Minh City, Vietnam
           
 Fiverr Freelancer
