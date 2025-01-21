@@ -7,8 +7,8 @@
 
 # Experience
 Code MeLy
-  - Leader Team Com 
-  - October 2023 - Present 
+  - Leader Team Community
+  - October 2023 - May 2024
 
 BnA
   - Research And Development 
